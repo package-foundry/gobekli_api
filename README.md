@@ -1,5 +1,9 @@
 # gobekli_api
 
+<p align="center">
+  <img src="assets/images/gobekli_api_art_01.png" alt="gobekli_api" width="400">
+</p>
+
 A production-oriented Go package for API key generation, parsing, hashing, verification, and storage abstraction.
 
 [![GoDoc](https://godoc.org/github.com/package-foundry/gobekli_api?status.svg)](https://pkg.go.dev/github.com/package-foundry/gobekli_api)
