@@ -1,0 +1,26 @@
+# Gitattributes
+
+# Line endings
+* text=auto eol=lf
+
+# Binary files
+*.bin binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+
+# Go
+*.go text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Config
+*.json text eol=lf
+*.toml text eol=lf

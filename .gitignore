@@ -1,0 +1,44 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+go.work
+
+# Build artifacts
+/bin/
+/build/
+/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+*.cov
+coverage.txt
+
+# Vendor (if not using modules)
+/vendor/
+
+# Temporary
+tmp/
+temp/
+*.tmp
